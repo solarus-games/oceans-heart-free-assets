@@ -1,0 +1,79 @@
+animation{
+  name = "walking",
+  src_image = "enemies/normal_enemies/crowbot.png",
+  frame_delay = 140,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 0, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 13, num_frames = 4 },
+    { x = 0, y = 16, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 13, num_frames = 4 },
+    { x = 0, y = 32, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 13, num_frames = 4 },
+    { x = 0, y = 48, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 13, num_frames = 4 },
+  },
+}
+animation{
+  name = "attack",
+  src_image = "enemies/normal_enemies/crowbot.png",
+  frame_delay = 80,
+  directions = {
+    { x = 160, y = 0, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 29, num_frames = 5 },
+    { x = 160, y = 0, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 29, num_frames = 5 },
+    { x = 160, y = 0, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 29, num_frames = 5 },
+    { x = 160, y = 0, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 29, num_frames = 5 },
+  },
+}
+animation{
+  name = "hurt",
+  src_image = "enemies/normal_enemies/crowbot.png",
+  frame_delay = 100,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 64, y = 0, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 13, num_frames = 2 },
+    { x = 64, y = 16, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 13, num_frames = 2 },
+    { x = 64, y = 32, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 13, num_frames = 2 },
+    { x = 64, y = 48, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 13, num_frames = 2 },
+  },
+}
+animation{
+  name = "immobilized",
+  src_image = "enemies/normal_enemies/crowbot.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 13 },
+    { x = 0, y = 16, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 13 },
+    { x = 0, y = 32, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 13 },
+    { x = 0, y = 48, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 13 },
+  },
+}
+animation{
+  name = "shaking",
+  src_image = "enemies/normal_enemies/crowbot.png",
+  frame_delay = 120,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 96, y = 0, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 13, num_frames = 2 },
+    { x = 96, y = 16, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 13, num_frames = 2 },
+    { x = 96, y = 32, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 13, num_frames = 2 },
+    { x = 96, y = 48, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 13, num_frames = 2 },
+  },
+}
+animation{
+  name = "stopped",
+  src_image = "enemies/normal_enemies/crowbot.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 13 },
+    { x = 0, y = 16, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 13 },
+    { x = 0, y = 32, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 13 },
+    { x = 0, y = 48, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 13 },
+  },
+}
+animation{
+  name = "wind_up",
+  src_image = "enemies/normal_enemies/crowbot.png",
+  frame_delay = 120,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 168, y = 16, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13 },
+    { x = 168, y = 16, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13 },
+    { x = 168, y = 16, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13 },
+    { x = 168, y = 16, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13 },
+  },
+}

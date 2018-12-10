@@ -1,0 +1,78 @@
+animation{
+  name = "walking",
+  src_image = "enemies/normal_enemies/arborgeist_rogue.png",
+  frame_delay = 180,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 8, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37, num_frames = 4 },
+    { x = 0, y = 56, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37, num_frames = 4 },
+    { x = 0, y = 104, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37, num_frames = 4 },
+    { x = 0, y = 152, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37, num_frames = 4 },
+  },
+}
+animation{
+  name = "hurt",
+  src_image = "enemies/normal_enemies/arborgeist_rogue.png",
+  frame_delay = 100,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 128, y = 8, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37, num_frames = 2 },
+    { x = 128, y = 56, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37, num_frames = 2 },
+    { x = 128, y = 104, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37, num_frames = 2 },
+    { x = 128, y = 152, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37, num_frames = 2 },
+  },
+}
+animation{
+  name = "immobilized",
+  src_image = "enemies/normal_enemies/arborgeist_rogue.png",
+  directions = {
+    { x = 0, y = 8, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37 },
+    { x = 0, y = 56, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37 },
+    { x = 0, y = 104, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37 },
+    { x = 0, y = 152, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37 },
+  },
+}
+animation{
+  name = "shaking",
+  src_image = "enemies/normal_enemies/arborgeist_rogue.png",
+  frame_delay = 120,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 192, y = 8, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37, num_frames = 2 },
+    { x = 192, y = 56, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37, num_frames = 2 },
+    { x = 192, y = 104, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37, num_frames = 2 },
+    { x = 192, y = 152, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37, num_frames = 2 },
+  },
+}
+animation{
+  name = "shooting",
+  src_image = "enemies/normal_enemies/arborgeist_rogue.png",
+  frame_delay = 130,
+  directions = {
+    { x = 256, y = 8, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37, num_frames = 3 },
+    { x = 256, y = 56, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37, num_frames = 3 },
+    { x = 256, y = 104, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37, num_frames = 3 },
+    { x = 256, y = 152, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37, num_frames = 3 },
+  },
+}
+animation{
+  name = "teleport_charge",
+  src_image = "enemies/normal_enemies/arborgeist_rogue.png",
+  frame_delay = 100,
+  directions = {
+    { x = 352, y = 8, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37, num_frames = 7 },
+    { x = 352, y = 56, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37, num_frames = 7 },
+    { x = 352, y = 104, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37, num_frames = 7 },
+    { x = 352, y = 152, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37, num_frames = 7 },
+  },
+}
+animation{
+  name = "teleporting",
+  src_image = "enemies/normal_enemies/arborgeist_rogue.png",
+  directions = {
+    { x = 576, y = 8, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37 },
+    { x = 576, y = 8, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37 },
+    { x = 576, y = 8, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37 },
+    { x = 576, y = 8, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 37 },
+  },
+}

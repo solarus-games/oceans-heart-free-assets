@@ -1,0 +1,66 @@
+animation{
+  name = "asleep",
+  src_image = "enemies/normal_enemies/stump_duck.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29 },
+    { x = 0, y = 32, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29 },
+    { x = 0, y = 64, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29 },
+    { x = 0, y = 96, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29 },
+  },
+}
+animation{
+  name = "awake",
+  src_image = "enemies/normal_enemies/stump_duck.png",
+  directions = {
+    { x = 32, y = 64, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29 },
+    { x = 32, y = 96, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29 },
+    { x = 32, y = 32, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29 },
+    { x = 32, y = 0, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29 },
+  },
+}
+animation{
+  name = "go_to_sleep",
+  src_image = "enemies/normal_enemies/stump_duck.png",
+  frame_delay = 80,
+  directions = {
+    { x = 64, y = 64, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 3 },
+    { x = 64, y = 96, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 3 },
+    { x = 64, y = 32, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 3 },
+    { x = 64, y = 0, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 3 },
+  },
+}
+animation{
+  name = "hurt",
+  src_image = "enemies/normal_enemies/stump_duck.png",
+  frame_delay = 100,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 112, y = 64, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 2 },
+    { x = 112, y = 96, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 2 },
+    { x = 112, y = 32, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 2 },
+    { x = 112, y = 0, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 2 },
+  },
+}
+animation{
+  name = "shooting",
+  src_image = "enemies/normal_enemies/stump_duck.png",
+  frame_delay = 120,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 32, y = 64, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 2 },
+    { x = 32, y = 96, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 2 },
+    { x = 32, y = 32, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 2 },
+    { x = 32, y = 0, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 2 },
+  },
+}
+animation{
+  name = "wake_up",
+  src_image = "enemies/normal_enemies/stump_duck.png",
+  frame_delay = 80,
+  directions = {
+    { x = 0, y = 64, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 3 },
+    { x = 0, y = 96, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 3 },
+    { x = 0, y = 32, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 3 },
+    { x = 0, y = 0, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 3 },
+  },
+}

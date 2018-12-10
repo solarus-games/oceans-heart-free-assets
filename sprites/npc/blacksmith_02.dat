@@ -1,0 +1,10 @@
+animation{
+  name = "stopped",
+  src_image = "npc/blacksmith_01.png",
+  directions = {
+    { x = 192, y = 0, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 18 },
+    { x = 192, y = 0, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 18 },
+    { x = 192, y = 0, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 18 },
+    { x = 192, y = 0, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 18 },
+  },
+}

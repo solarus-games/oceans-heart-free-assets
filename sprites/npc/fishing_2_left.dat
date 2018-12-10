@@ -1,0 +1,10 @@
+animation{
+  name = "stopped",
+  src_image = "npc/sitting_2.png",
+  directions = {
+    { x = 16, y = 96, frame_width = 48, frame_height = 32, origin_x = 30, origin_y = 25 },
+    { x = 16, y = 96, frame_width = 48, frame_height = 32, origin_x = 30, origin_y = 25 },
+    { x = 16, y = 96, frame_width = 48, frame_height = 32, origin_x = 30, origin_y = 25 },
+    { x = 16, y = 96, frame_width = 48, frame_height = 32, origin_x = 30, origin_y = 25 },
+  },
+}
