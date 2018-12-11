@@ -20,7 +20,6 @@ sprite{ id = "enemies/bosses/michael_weapon", description = "enemies/bosses/mich
 sprite{ id = "enemies/bosses/rock_spider_big", description = "enemies/bosses/rock_spider_big" }
 sprite{ id = "enemies/bosses/thyme", description = "enemies/bosses/thyme" }
 sprite{ id = "enemies/enemy_killed", description = "enemies/enemy_killed" }
-sprite{ id = "enemies/ground1", description = "enemies/ground1" }
 sprite{ id = "enemies/misc/arrow_4", description = "enemies/misc/arrow_4" }
 sprite{ id = "enemies/misc/big_stone", description = "enemies/misc/big_stone" }
 sprite{ id = "enemies/misc/crusher_0.5", description = "enemies/misc/crusher_0.5" }
@@ -627,7 +626,6 @@ file{ path = "sprites/enemies/bosses/thyme.dat", author = "Max Mraz", license = 
 file{ path = "sprites/enemies/bosses/thyme.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
 file{ path = "sprites/enemies/enemy_killed.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
 file{ path = "sprites/enemies/enemy_killed.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
-file{ path = "sprites/enemies/ground1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
 file{ path = "sprites/enemies/misc/arrow_4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
 file{ path = "sprites/enemies/misc/big_stone.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
 file{ path = "sprites/enemies/misc/big_stone.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
