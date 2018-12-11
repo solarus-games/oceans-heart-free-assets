@@ -1,0 +1,1380 @@
+
+tileset{ id = "cave_2", description = "cave_2" }
+tileset{ id = "indoors_cabin", description = "indoors_cabin" }
+tileset{ id = "indoors_stone", description = "indoors_stone" }
+tileset{ id = "oceanheart_outdoors_1", description = "oceanheart_outdoors_1" }
+tileset{ id = "overworld_oakhaven", description = "overworld_oakhaven" }
+tileset{ id = "overworld_yarrowmouth", description = "overworld_yarrowmouth" }
+tileset{ id = "pirate_overworld_test", description = "pirate_overworld_test" }
+tileset{ id = "temple_2", description = "temple_2" }
+
+sprite{ id = "enemies/bosses/bart", description = "enemies/bosses/bart" }
+sprite{ id = "enemies/bosses/bart_weapon", description = "enemies/bosses/bart_weapon" }
+sprite{ id = "enemies/bosses/blackbeard", description = "enemies/bosses/blackbeard" }
+sprite{ id = "enemies/bosses/burrow_crab", description = "enemies/bosses/burrow_crab" }
+sprite{ id = "enemies/bosses/charging_pirate_1", description = "enemies/bosses/charging_pirate_1" }
+sprite{ id = "enemies/bosses/fiend_1", description = "enemies/bosses/fiend_1" }
+sprite{ id = "enemies/bosses/jazari", description = "enemies/bosses/jazari" }
+sprite{ id = "enemies/bosses/michael", description = "enemies/bosses/michael" }
+sprite{ id = "enemies/bosses/michael_weapon", description = "enemies/bosses/michael_weapon" }
+sprite{ id = "enemies/bosses/rock_spider_big", description = "enemies/bosses/rock_spider_big" }
+sprite{ id = "enemies/bosses/thyme", description = "enemies/bosses/thyme" }
+sprite{ id = "enemies/enemy_killed", description = "enemies/enemy_killed" }
+sprite{ id = "enemies/ground1", description = "enemies/ground1" }
+sprite{ id = "enemies/misc/arrow_4", description = "enemies/misc/arrow_4" }
+sprite{ id = "enemies/misc/big_stone", description = "enemies/misc/big_stone" }
+sprite{ id = "enemies/misc/crusher_0.5", description = "enemies/misc/crusher_0.5" }
+sprite{ id = "enemies/misc/crusher_1.0", description = "enemies/misc/crusher_1.0" }
+sprite{ id = "enemies/misc/crusher_2.0", description = "enemies/misc/crusher_2.0" }
+sprite{ id = "enemies/misc/crusher_3.0", description = "enemies/misc/crusher_3.0" }
+sprite{ id = "enemies/misc/crusher_4.0", description = "enemies/misc/crusher_4.0" }
+sprite{ id = "enemies/misc/explosive_barrel", description = "enemies/misc/explosive_barrel" }
+sprite{ id = "enemies/misc/fireball_red_small", description = "enemies/misc/fireball_red_small" }
+sprite{ id = "enemies/misc/nitrodendron_bomb", description = "enemies/misc/nitrodendron_bomb" }
+sprite{ id = "enemies/misc/octorok_stone", description = "enemies/misc/octorok_stone" }
+sprite{ id = "enemies/misc/octorok_stone_2", description = "enemies/misc/octorok_stone_2" }
+sprite{ id = "enemies/misc/root_small", description = "enemies/misc/root_small" }
+sprite{ id = "enemies/misc/seagull", description = "enemies/misc/seagull" }
+sprite{ id = "enemies/misc/steam_attack", description = "enemies/misc/steam_attack" }
+sprite{ id = "enemies/misc/thyme_bomb", description = "enemies/misc/thyme_bomb" }
+sprite{ id = "enemies/misc/weak_tree", description = "enemies/misc/weak_tree" }
+sprite{ id = "enemies/misc/zora_fire", description = "enemies/misc/zora_fire" }
+sprite{ id = "enemies/normal_enemies/arborgeist_acorn", description = "enemies/normal_enemies/arborgeist_acorn" }
+sprite{ id = "enemies/normal_enemies/arborgeist_bomber", description = "enemies/normal_enemies/arborgeist_bomber" }
+sprite{ id = "enemies/normal_enemies/arborgeist_rogue", description = "enemies/normal_enemies/arborgeist_rogue" }
+sprite{ id = "enemies/normal_enemies/arborgeist_stump", description = "enemies/normal_enemies/arborgeist_stump" }
+sprite{ id = "enemies/normal_enemies/aster_enemy", description = "enemies/normal_enemies/aster_enemy" }
+sprite{ id = "enemies/normal_enemies/aster_enemy_weapon", description = "enemies/normal_enemies/aster_enemy_weapon" }
+sprite{ id = "enemies/normal_enemies/automatic_crow_knight", description = "enemies/normal_enemies/automatic_crow_knight" }
+sprite{ id = "enemies/normal_enemies/bat_1", description = "enemies/normal_enemies/bat_1" }
+sprite{ id = "enemies/normal_enemies/birdfox_1", description = "enemies/normal_enemies/birdfox_1" }
+sprite{ id = "enemies/normal_enemies/blade_trap", description = "enemies/normal_enemies/blade_trap" }
+sprite{ id = "enemies/normal_enemies/burrow_like", description = "enemies/normal_enemies/burrow_like" }
+sprite{ id = "enemies/normal_enemies/crow", description = "enemies/normal_enemies/crow" }
+sprite{ id = "enemies/normal_enemies/crow_xxl", description = "enemies/normal_enemies/crow_xxl" }
+sprite{ id = "enemies/normal_enemies/crowbot", description = "enemies/normal_enemies/crowbot" }
+sprite{ id = "enemies/normal_enemies/cyclops_1", description = "enemies/normal_enemies/cyclops_1" }
+sprite{ id = "enemies/normal_enemies/gel_black", description = "enemies/normal_enemies/gel_black" }
+sprite{ id = "enemies/normal_enemies/ghost_1", description = "enemies/normal_enemies/ghost_1" }
+sprite{ id = "enemies/normal_enemies/ghost_2", description = "enemies/normal_enemies/ghost_2" }
+sprite{ id = "enemies/normal_enemies/grim_1", description = "enemies/normal_enemies/grim_1" }
+sprite{ id = "enemies/normal_enemies/guard_goatshead_1", description = "enemies/normal_enemies/guard_goatshead_1" }
+sprite{ id = "enemies/normal_enemies/guard_goatshead_1_weapon", description = "enemies/normal_enemies/guard_goatshead_1_weapon" }
+sprite{ id = "enemies/normal_enemies/hornet", description = "enemies/normal_enemies/hornet" }
+sprite{ id = "enemies/normal_enemies/mandrake", description = "enemies/normal_enemies/mandrake" }
+sprite{ id = "enemies/normal_enemies/mandrake_white", description = "enemies/normal_enemies/mandrake_white" }
+sprite{ id = "enemies/normal_enemies/meandershroom_1", description = "enemies/normal_enemies/meandershroom_1" }
+sprite{ id = "enemies/normal_enemies/mud_golem_1", description = "enemies/normal_enemies/mud_golem_1" }
+sprite{ id = "enemies/normal_enemies/ogre_1", description = "enemies/normal_enemies/ogre_1" }
+sprite{ id = "enemies/normal_enemies/ogre_armor", description = "enemies/normal_enemies/ogre_armor" }
+sprite{ id = "enemies/normal_enemies/ogre_knight", description = "enemies/normal_enemies/ogre_knight" }
+sprite{ id = "enemies/normal_enemies/pirate_bow_brown_1", description = "enemies/normal_enemies/pirate_bow_brown_1" }
+sprite{ id = "enemies/normal_enemies/pirate_sword_brown_1", description = "enemies/normal_enemies/pirate_sword_brown_1" }
+sprite{ id = "enemies/normal_enemies/pirate_sword_brown_1_weapon", description = "enemies/normal_enemies/pirate_sword_brown_1_weapon" }
+sprite{ id = "enemies/normal_enemies/pirate_sword_brown_2", description = "enemies/normal_enemies/pirate_sword_brown_2" }
+sprite{ id = "enemies/normal_enemies/pirate_sword_brown_2_weapon", description = "enemies/normal_enemies/pirate_sword_brown_2_weapon" }
+sprite{ id = "enemies/normal_enemies/pirate_sword_brown_3", description = "enemies/normal_enemies/pirate_sword_brown_3" }
+sprite{ id = "enemies/normal_enemies/pirate_sword_brown_3_weapon", description = "enemies/normal_enemies/pirate_sword_brown_3_weapon" }
+sprite{ id = "enemies/normal_enemies/rambleshroom", description = "enemies/normal_enemies/rambleshroom" }
+sprite{ id = "enemies/normal_enemies/rock_spider_brown", description = "enemies/normal_enemies/rock_spider_brown" }
+sprite{ id = "enemies/normal_enemies/rock_spider_red", description = "enemies/normal_enemies/rock_spider_red" }
+sprite{ id = "enemies/normal_enemies/seaweed_blob", description = "enemies/normal_enemies/seaweed_blob" }
+sprite{ id = "enemies/normal_enemies/seaweed_golem_1", description = "enemies/normal_enemies/seaweed_golem_1" }
+sprite{ id = "enemies/normal_enemies/shooty_fish", description = "enemies/normal_enemies/shooty_fish" }
+sprite{ id = "enemies/normal_enemies/skeleton_1", description = "enemies/normal_enemies/skeleton_1" }
+sprite{ id = "enemies/normal_enemies/spitrock_small", description = "enemies/normal_enemies/spitrock_small" }
+sprite{ id = "enemies/normal_enemies/spitstump_small", description = "enemies/normal_enemies/spitstump_small" }
+sprite{ id = "enemies/normal_enemies/stump_duck", description = "enemies/normal_enemies/stump_duck" }
+sprite{ id = "enemies/normal_enemies/sword_soldier_blue", description = "enemies/normal_enemies/sword_soldier_blue" }
+sprite{ id = "enemies/normal_enemies/triangle_crab_red", description = "enemies/normal_enemies/triangle_crab_red" }
+sprite{ id = "enemies/normal_enemies/trumpet_player_disguise", description = "enemies/normal_enemies/trumpet_player_disguise" }
+sprite{ id = "npc/big_guy_1", description = "npc/big_guy_1" }
+sprite{ id = "npc/blacksmith_01", description = "npc/blacksmith_01" }
+sprite{ id = "npc/blacksmith_02", description = "npc/blacksmith_02" }
+sprite{ id = "npc/blacksmith_03", description = "npc/blacksmith_03" }
+sprite{ id = "npc/blacksmith_04", description = "npc/blacksmith_04" }
+sprite{ id = "npc/bouncer_1", description = "npc/bouncer_1" }
+sprite{ id = "npc/bouncer_2", description = "npc/bouncer_2" }
+sprite{ id = "npc/dockworker_1", description = "npc/dockworker_1" }
+sprite{ id = "npc/dockworker_2", description = "npc/dockworker_2" }
+sprite{ id = "npc/dockworker_3", description = "npc/dockworker_3" }
+sprite{ id = "npc/dockworker_4", description = "npc/dockworker_4" }
+sprite{ id = "npc/dockworker_5", description = "npc/dockworker_5" }
+sprite{ id = "npc/dockworker_6", description = "npc/dockworker_6" }
+sprite{ id = "npc/dockworker_7", description = "npc/dockworker_7" }
+sprite{ id = "npc/dockworker_8", description = "npc/dockworker_8" }
+sprite{ id = "npc/eamon", description = "npc/eamon" }
+sprite{ id = "npc/fishing_2_left", description = "npc/fishing_2_left" }
+sprite{ id = "npc/fishing_2_right", description = "npc/fishing_2_right" }
+sprite{ id = "npc/fishing_left", description = "npc/fishing_left" }
+sprite{ id = "npc/fishing_right", description = "npc/fishing_right" }
+sprite{ id = "npc/hazel", description = "npc/hazel" }
+sprite{ id = "npc/ilex", description = "npc/ilex" }
+sprite{ id = "npc/juglan", description = "npc/juglan" }
+sprite{ id = "npc/juglan_fishing", description = "npc/juglan_fishing" }
+sprite{ id = "npc/kelpton", description = "npc/kelpton" }
+sprite{ id = "npc/kid/kid_1.1", description = "npc/kid/kid_1.1" }
+sprite{ id = "npc/kid/kid_1.2", description = "npc/kid/kid_1.2" }
+sprite{ id = "npc/kid/kid_1.3", description = "npc/kid/kid_1.3" }
+sprite{ id = "npc/kid/kid_1.4", description = "npc/kid/kid_1.4" }
+sprite{ id = "npc/kid/kid_2.1", description = "npc/kid/kid_2.1" }
+sprite{ id = "npc/kid/kid_2.2", description = "npc/kid/kid_2.2" }
+sprite{ id = "npc/kid/kid_2.3", description = "npc/kid/kid_2.3" }
+sprite{ id = "npc/kid/kid_2.4", description = "npc/kid/kid_2.4" }
+sprite{ id = "npc/kid/kid_3.1", description = "npc/kid/kid_3.1" }
+sprite{ id = "npc/kid/kid_3.2", description = "npc/kid/kid_3.2" }
+sprite{ id = "npc/kid/kid_3.3", description = "npc/kid/kid_3.3" }
+sprite{ id = "npc/kid/kid_3.4", description = "npc/kid/kid_3.4" }
+sprite{ id = "npc/kid/kid_4.1", description = "npc/kid/kid_4.1" }
+sprite{ id = "npc/kid/kid_4.2", description = "npc/kid/kid_4.2" }
+sprite{ id = "npc/kid/kid_4.3", description = "npc/kid/kid_4.3" }
+sprite{ id = "npc/kid/kid_4.4", description = "npc/kid/kid_4.4" }
+sprite{ id = "npc/kid/kid_5.1", description = "npc/kid/kid_5.1" }
+sprite{ id = "npc/kid/kid_5.2", description = "npc/kid/kid_5.2" }
+sprite{ id = "npc/kid/kid_5.3", description = "npc/kid/kid_5.3" }
+sprite{ id = "npc/kid/kid_5.4", description = "npc/kid/kid_5.4" }
+sprite{ id = "npc/kid/kid_6.1", description = "npc/kid/kid_6.1" }
+sprite{ id = "npc/kid/kid_6.2", description = "npc/kid/kid_6.2" }
+sprite{ id = "npc/kid/kid_6.3", description = "npc/kid/kid_6.3" }
+sprite{ id = "npc/kid/kid_6.4", description = "npc/kid/kid_6.4" }
+sprite{ id = "npc/leigha", description = "npc/leigha" }
+sprite{ id = "npc/linden", description = "npc/linden" }
+sprite{ id = "npc/linden_sweeping", description = "npc/linden_sweeping" }
+sprite{ id = "npc/mallow", description = "npc/mallow" }
+sprite{ id = "npc/man/man_1.1", description = "npc/man/man_1.1" }
+sprite{ id = "npc/man/man_1.2", description = "npc/man/man_1.2" }
+sprite{ id = "npc/man/man_1.3", description = "npc/man/man_1.3" }
+sprite{ id = "npc/man/man_1.4", description = "npc/man/man_1.4" }
+sprite{ id = "npc/man/man_1.5", description = "npc/man/man_1.5" }
+sprite{ id = "npc/man/man_1.6", description = "npc/man/man_1.6" }
+sprite{ id = "npc/man/man_1.7", description = "npc/man/man_1.7" }
+sprite{ id = "npc/man/man_1.8", description = "npc/man/man_1.8" }
+sprite{ id = "npc/man/man_10.1", description = "npc/man/man_10.1" }
+sprite{ id = "npc/man/man_10.2", description = "npc/man/man_10.2" }
+sprite{ id = "npc/man/man_10.3", description = "npc/man/man_10.3" }
+sprite{ id = "npc/man/man_10.4", description = "npc/man/man_10.4" }
+sprite{ id = "npc/man/man_10.5", description = "npc/man/man_10.5" }
+sprite{ id = "npc/man/man_10.6", description = "npc/man/man_10.6" }
+sprite{ id = "npc/man/man_10.7", description = "npc/man/man_10.7" }
+sprite{ id = "npc/man/man_10.8", description = "npc/man/man_10.8" }
+sprite{ id = "npc/man/man_11.1", description = "npc/man/man_11.1" }
+sprite{ id = "npc/man/man_11.2", description = "npc/man/man_11.2" }
+sprite{ id = "npc/man/man_11.3", description = "npc/man/man_11.3" }
+sprite{ id = "npc/man/man_11.4", description = "npc/man/man_11.4" }
+sprite{ id = "npc/man/man_11.5", description = "npc/man/man_11.5" }
+sprite{ id = "npc/man/man_11.6", description = "npc/man/man_11.6" }
+sprite{ id = "npc/man/man_11.7", description = "npc/man/man_11.7" }
+sprite{ id = "npc/man/man_11.8", description = "npc/man/man_11.8" }
+sprite{ id = "npc/man/man_12.1", description = "npc/man/man_12.1" }
+sprite{ id = "npc/man/man_12.2", description = "npc/man/man_12.2" }
+sprite{ id = "npc/man/man_12.3", description = "npc/man/man_12.3" }
+sprite{ id = "npc/man/man_12.4", description = "npc/man/man_12.4" }
+sprite{ id = "npc/man/man_12.5", description = "npc/man/man_12.5" }
+sprite{ id = "npc/man/man_12.6", description = "npc/man/man_12.6" }
+sprite{ id = "npc/man/man_12.7", description = "npc/man/man_12.7" }
+sprite{ id = "npc/man/man_12.8", description = "npc/man/man_12.8" }
+sprite{ id = "npc/man/man_13.1", description = "npc/man/man_13.1" }
+sprite{ id = "npc/man/man_13.2", description = "npc/man/man_13.2" }
+sprite{ id = "npc/man/man_13.3", description = "npc/man/man_13.3" }
+sprite{ id = "npc/man/man_13.4", description = "npc/man/man_13.4" }
+sprite{ id = "npc/man/man_13.5", description = "npc/man/man_13.5" }
+sprite{ id = "npc/man/man_13.6", description = "npc/man/man_13.6" }
+sprite{ id = "npc/man/man_13.7", description = "npc/man/man_13.7" }
+sprite{ id = "npc/man/man_13.8", description = "npc/man/man_13.8" }
+sprite{ id = "npc/man/man_14.1", description = "npc/man/man_14.1" }
+sprite{ id = "npc/man/man_14.2", description = "npc/man/man_14.2" }
+sprite{ id = "npc/man/man_14.3", description = "npc/man/man_14.3" }
+sprite{ id = "npc/man/man_14.4", description = "npc/man/man_14.4" }
+sprite{ id = "npc/man/man_14.5", description = "npc/man/man_14.5" }
+sprite{ id = "npc/man/man_14.6", description = "npc/man/man_14.6" }
+sprite{ id = "npc/man/man_14.7", description = "npc/man/man_14.7" }
+sprite{ id = "npc/man/man_14.8", description = "npc/man/man_14.8" }
+sprite{ id = "npc/man/man_15.1", description = "npc/man/man_15.1" }
+sprite{ id = "npc/man/man_15.2", description = "npc/man/man_15.2" }
+sprite{ id = "npc/man/man_15.3", description = "npc/man/man_15.3" }
+sprite{ id = "npc/man/man_15.4", description = "npc/man/man_15.4" }
+sprite{ id = "npc/man/man_15.5", description = "npc/man/man_15.5" }
+sprite{ id = "npc/man/man_15.6", description = "npc/man/man_15.6" }
+sprite{ id = "npc/man/man_15.7", description = "npc/man/man_15.7" }
+sprite{ id = "npc/man/man_15.8", description = "npc/man/man_15.8" }
+sprite{ id = "npc/man/man_16.1", description = "npc/man/man_16.1" }
+sprite{ id = "npc/man/man_16.2", description = "npc/man/man_16.2" }
+sprite{ id = "npc/man/man_16.3", description = "npc/man/man_16.3" }
+sprite{ id = "npc/man/man_16.4", description = "npc/man/man_16.4" }
+sprite{ id = "npc/man/man_16.5", description = "npc/man/man_16.5" }
+sprite{ id = "npc/man/man_16.6", description = "npc/man/man_16.6" }
+sprite{ id = "npc/man/man_16.7", description = "npc/man/man_16.7" }
+sprite{ id = "npc/man/man_16.8", description = "npc/man/man_16.8" }
+sprite{ id = "npc/man/man_17.1", description = "npc/man/man_17.1" }
+sprite{ id = "npc/man/man_17.2", description = "npc/man/man_17.2" }
+sprite{ id = "npc/man/man_17.3", description = "npc/man/man_17.3" }
+sprite{ id = "npc/man/man_17.4", description = "npc/man/man_17.4" }
+sprite{ id = "npc/man/man_17.5", description = "npc/man/man_17.5" }
+sprite{ id = "npc/man/man_17.6", description = "npc/man/man_17.6" }
+sprite{ id = "npc/man/man_17.7", description = "npc/man/man_17.7" }
+sprite{ id = "npc/man/man_17.8", description = "npc/man/man_17.8" }
+sprite{ id = "npc/man/man_18.1", description = "npc/man/man_18.1" }
+sprite{ id = "npc/man/man_18.2", description = "npc/man/man_18.2" }
+sprite{ id = "npc/man/man_18.3", description = "npc/man/man_18.3" }
+sprite{ id = "npc/man/man_18.4", description = "npc/man/man_18.4" }
+sprite{ id = "npc/man/man_18.5", description = "npc/man/man_18.5" }
+sprite{ id = "npc/man/man_18.6", description = "npc/man/man_18.6" }
+sprite{ id = "npc/man/man_18.7", description = "npc/man/man_18.7" }
+sprite{ id = "npc/man/man_18.8", description = "npc/man/man_18.8" }
+sprite{ id = "npc/man/man_19.1", description = "npc/man/man_19.1" }
+sprite{ id = "npc/man/man_19.2", description = "npc/man/man_19.2" }
+sprite{ id = "npc/man/man_19.3", description = "npc/man/man_19.3" }
+sprite{ id = "npc/man/man_19.4", description = "npc/man/man_19.4" }
+sprite{ id = "npc/man/man_19.5", description = "npc/man/man_19.5" }
+sprite{ id = "npc/man/man_19.6", description = "npc/man/man_19.6" }
+sprite{ id = "npc/man/man_19.7", description = "npc/man/man_19.7" }
+sprite{ id = "npc/man/man_19.8", description = "npc/man/man_19.8" }
+sprite{ id = "npc/man/man_2.1", description = "npc/man/man_2.1" }
+sprite{ id = "npc/man/man_2.2", description = "npc/man/man_2.2" }
+sprite{ id = "npc/man/man_2.3", description = "npc/man/man_2.3" }
+sprite{ id = "npc/man/man_2.4", description = "npc/man/man_2.4" }
+sprite{ id = "npc/man/man_2.5", description = "npc/man/man_2.5" }
+sprite{ id = "npc/man/man_2.6", description = "npc/man/man_2.6" }
+sprite{ id = "npc/man/man_2.7", description = "npc/man/man_2.7" }
+sprite{ id = "npc/man/man_2.8", description = "npc/man/man_2.8" }
+sprite{ id = "npc/man/man_20.1", description = "npc/man/man_20.1" }
+sprite{ id = "npc/man/man_20.2", description = "npc/man/man_20.2" }
+sprite{ id = "npc/man/man_20.3", description = "npc/man/man_20.3" }
+sprite{ id = "npc/man/man_20.4", description = "npc/man/man_20.4" }
+sprite{ id = "npc/man/man_20.5", description = "npc/man/man_20.5" }
+sprite{ id = "npc/man/man_20.6", description = "npc/man/man_20.6" }
+sprite{ id = "npc/man/man_20.7", description = "npc/man/man_20.7" }
+sprite{ id = "npc/man/man_20.8", description = "npc/man/man_20.8" }
+sprite{ id = "npc/man/man_21.1", description = "npc/man/man_21.1" }
+sprite{ id = "npc/man/man_21.2", description = "npc/man/man_21.2" }
+sprite{ id = "npc/man/man_21.3", description = "npc/man/man_21.3" }
+sprite{ id = "npc/man/man_21.4", description = "npc/man/man_21.4" }
+sprite{ id = "npc/man/man_21.5", description = "npc/man/man_21.5" }
+sprite{ id = "npc/man/man_21.6", description = "npc/man/man_21.6" }
+sprite{ id = "npc/man/man_21.7", description = "npc/man/man_21.7" }
+sprite{ id = "npc/man/man_21.8", description = "npc/man/man_21.8" }
+sprite{ id = "npc/man/man_22.1", description = "npc/man/man_22.1" }
+sprite{ id = "npc/man/man_22.2", description = "npc/man/man_22.2" }
+sprite{ id = "npc/man/man_22.3", description = "npc/man/man_22.3" }
+sprite{ id = "npc/man/man_22.4", description = "npc/man/man_22.4" }
+sprite{ id = "npc/man/man_22.5", description = "npc/man/man_22.5" }
+sprite{ id = "npc/man/man_22.6", description = "npc/man/man_22.6" }
+sprite{ id = "npc/man/man_22.7", description = "npc/man/man_22.7" }
+sprite{ id = "npc/man/man_22.8", description = "npc/man/man_22.8" }
+sprite{ id = "npc/man/man_23.1", description = "npc/man/man_23.1" }
+sprite{ id = "npc/man/man_23.2", description = "npc/man/man_23.2" }
+sprite{ id = "npc/man/man_23.3", description = "npc/man/man_23.3" }
+sprite{ id = "npc/man/man_23.4", description = "npc/man/man_23.4" }
+sprite{ id = "npc/man/man_23.5", description = "npc/man/man_23.5" }
+sprite{ id = "npc/man/man_23.6", description = "npc/man/man_23.6" }
+sprite{ id = "npc/man/man_23.7", description = "npc/man/man_23.7" }
+sprite{ id = "npc/man/man_23.8", description = "npc/man/man_23.8" }
+sprite{ id = "npc/man/man_24.1", description = "npc/man/man_24.1" }
+sprite{ id = "npc/man/man_24.2", description = "npc/man/man_24.2" }
+sprite{ id = "npc/man/man_24.3", description = "npc/man/man_24.3" }
+sprite{ id = "npc/man/man_24.4", description = "npc/man/man_24.4" }
+sprite{ id = "npc/man/man_24.5", description = "npc/man/man_24.5" }
+sprite{ id = "npc/man/man_24.6", description = "npc/man/man_24.6" }
+sprite{ id = "npc/man/man_24.7", description = "npc/man/man_24.7" }
+sprite{ id = "npc/man/man_24.8", description = "npc/man/man_24.8" }
+sprite{ id = "npc/man/man_25.1", description = "npc/man/man_25.1" }
+sprite{ id = "npc/man/man_25.2", description = "npc/man/man_25.2" }
+sprite{ id = "npc/man/man_25.3", description = "npc/man/man_25.3" }
+sprite{ id = "npc/man/man_25.4", description = "npc/man/man_25.4" }
+sprite{ id = "npc/man/man_25.5", description = "npc/man/man_25.5" }
+sprite{ id = "npc/man/man_25.6", description = "npc/man/man_25.6" }
+sprite{ id = "npc/man/man_25.7", description = "npc/man/man_25.7" }
+sprite{ id = "npc/man/man_25.8", description = "npc/man/man_25.8" }
+sprite{ id = "npc/man/man_26.1", description = "npc/man/man_26.1" }
+sprite{ id = "npc/man/man_26.2", description = "npc/man/man_26.2" }
+sprite{ id = "npc/man/man_26.3", description = "npc/man/man_26.3" }
+sprite{ id = "npc/man/man_26.4", description = "npc/man/man_26.4" }
+sprite{ id = "npc/man/man_26.5", description = "npc/man/man_26.5" }
+sprite{ id = "npc/man/man_26.6", description = "npc/man/man_26.6" }
+sprite{ id = "npc/man/man_26.7", description = "npc/man/man_26.7" }
+sprite{ id = "npc/man/man_26.8", description = "npc/man/man_26.8" }
+sprite{ id = "npc/man/man_27.1", description = "npc/man/man_27.1" }
+sprite{ id = "npc/man/man_27.2", description = "npc/man/man_27.2" }
+sprite{ id = "npc/man/man_27.3", description = "npc/man/man_27.3" }
+sprite{ id = "npc/man/man_27.4", description = "npc/man/man_27.4" }
+sprite{ id = "npc/man/man_27.5", description = "npc/man/man_27.5" }
+sprite{ id = "npc/man/man_27.6", description = "npc/man/man_27.6" }
+sprite{ id = "npc/man/man_27.7", description = "npc/man/man_27.7" }
+sprite{ id = "npc/man/man_27.8", description = "npc/man/man_27.8" }
+sprite{ id = "npc/man/man_28.1", description = "npc/man/man_28.1" }
+sprite{ id = "npc/man/man_28.2", description = "npc/man/man_28.2" }
+sprite{ id = "npc/man/man_28.3", description = "npc/man/man_28.3" }
+sprite{ id = "npc/man/man_28.4", description = "npc/man/man_28.4" }
+sprite{ id = "npc/man/man_28.5", description = "npc/man/man_28.5" }
+sprite{ id = "npc/man/man_28.6", description = "npc/man/man_28.6" }
+sprite{ id = "npc/man/man_28.7", description = "npc/man/man_28.7" }
+sprite{ id = "npc/man/man_28.8", description = "npc/man/man_28.8" }
+sprite{ id = "npc/man/man_3.1", description = "npc/man/man_3.1" }
+sprite{ id = "npc/man/man_3.2", description = "npc/man/man_3.2" }
+sprite{ id = "npc/man/man_3.3", description = "npc/man/man_3.3" }
+sprite{ id = "npc/man/man_3.4", description = "npc/man/man_3.4" }
+sprite{ id = "npc/man/man_3.5", description = "npc/man/man_3.5" }
+sprite{ id = "npc/man/man_3.6", description = "npc/man/man_3.6" }
+sprite{ id = "npc/man/man_3.7", description = "npc/man/man_3.7" }
+sprite{ id = "npc/man/man_3.8", description = "npc/man/man_3.8" }
+sprite{ id = "npc/man/man_4.1", description = "npc/man/man_4.1" }
+sprite{ id = "npc/man/man_4.2", description = "npc/man/man_4.2" }
+sprite{ id = "npc/man/man_4.3", description = "npc/man/man_4.3" }
+sprite{ id = "npc/man/man_4.4", description = "npc/man/man_4.4" }
+sprite{ id = "npc/man/man_4.5", description = "npc/man/man_4.5" }
+sprite{ id = "npc/man/man_4.6", description = "npc/man/man_4.6" }
+sprite{ id = "npc/man/man_4.7", description = "npc/man/man_4.7" }
+sprite{ id = "npc/man/man_4.8", description = "npc/man/man_4.8" }
+sprite{ id = "npc/man/man_5.1", description = "npc/man/man_5.1" }
+sprite{ id = "npc/man/man_5.2", description = "npc/man/man_5.2" }
+sprite{ id = "npc/man/man_5.3", description = "npc/man/man_5.3" }
+sprite{ id = "npc/man/man_5.4", description = "npc/man/man_5.4" }
+sprite{ id = "npc/man/man_5.5", description = "npc/man/man_5.5" }
+sprite{ id = "npc/man/man_5.6", description = "npc/man/man_5.6" }
+sprite{ id = "npc/man/man_5.7", description = "npc/man/man_5.7" }
+sprite{ id = "npc/man/man_5.8", description = "npc/man/man_5.8" }
+sprite{ id = "npc/man/man_6.1", description = "npc/man/man_6.1" }
+sprite{ id = "npc/man/man_6.2", description = "npc/man/man_6.2" }
+sprite{ id = "npc/man/man_6.3", description = "npc/man/man_6.3" }
+sprite{ id = "npc/man/man_6.4", description = "npc/man/man_6.4" }
+sprite{ id = "npc/man/man_6.5", description = "npc/man/man_6.5" }
+sprite{ id = "npc/man/man_6.6", description = "npc/man/man_6.6" }
+sprite{ id = "npc/man/man_6.7", description = "npc/man/man_6.7" }
+sprite{ id = "npc/man/man_6.8", description = "npc/man/man_6.8" }
+sprite{ id = "npc/man/man_7.1", description = "npc/man/man_7.1" }
+sprite{ id = "npc/man/man_7.2", description = "npc/man/man_7.2" }
+sprite{ id = "npc/man/man_7.3", description = "npc/man/man_7.3" }
+sprite{ id = "npc/man/man_7.4", description = "npc/man/man_7.4" }
+sprite{ id = "npc/man/man_7.5", description = "npc/man/man_7.5" }
+sprite{ id = "npc/man/man_7.6", description = "npc/man/man_7.6" }
+sprite{ id = "npc/man/man_7.7", description = "npc/man/man_7.7" }
+sprite{ id = "npc/man/man_7.8", description = "npc/man/man_7.8" }
+sprite{ id = "npc/man/man_8.1", description = "npc/man/man_8.1" }
+sprite{ id = "npc/man/man_8.2", description = "npc/man/man_8.2" }
+sprite{ id = "npc/man/man_8.3", description = "npc/man/man_8.3" }
+sprite{ id = "npc/man/man_8.4", description = "npc/man/man_8.4" }
+sprite{ id = "npc/man/man_8.5", description = "npc/man/man_8.5" }
+sprite{ id = "npc/man/man_8.6", description = "npc/man/man_8.6" }
+sprite{ id = "npc/man/man_8.7", description = "npc/man/man_8.7" }
+sprite{ id = "npc/man/man_8.8", description = "npc/man/man_8.8" }
+sprite{ id = "npc/man/man_9.1", description = "npc/man/man_9.1" }
+sprite{ id = "npc/man/man_9.2", description = "npc/man/man_9.2" }
+sprite{ id = "npc/man/man_9.3", description = "npc/man/man_9.3" }
+sprite{ id = "npc/man/man_9.4", description = "npc/man/man_9.4" }
+sprite{ id = "npc/man/man_9.5", description = "npc/man/man_9.5" }
+sprite{ id = "npc/man/man_9.6", description = "npc/man/man_9.6" }
+sprite{ id = "npc/man/man_9.7", description = "npc/man/man_9.7" }
+sprite{ id = "npc/man/man_9.8", description = "npc/man/man_9.8" }
+sprite{ id = "npc/morus", description = "npc/morus" }
+sprite{ id = "npc/musician_2", description = "npc/musician_2" }
+sprite{ id = "npc/musician_3", description = "npc/musician_3" }
+sprite{ id = "npc/nina", description = "npc/nina" }
+sprite{ id = "npc/old_man_1.2", description = "npc/old_man_1.2" }
+sprite{ id = "npc/orange_ana", description = "npc/orange_ana" }
+sprite{ id = "npc/phantom_squid", description = "npc/phantom_squid" }
+sprite{ id = "npc/phantom_squid_2", description = "npc/phantom_squid_2" }
+sprite{ id = "npc/pirates/pirate_10.1", description = "npc/pirates/pirate_10.1" }
+sprite{ id = "npc/pirates/pirate_10.2", description = "npc/pirates/pirate_10.2" }
+sprite{ id = "npc/pirates/pirate_10.3", description = "npc/pirates/pirate_10.3" }
+sprite{ id = "npc/pirates/pirate_10.4", description = "npc/pirates/pirate_10.4" }
+sprite{ id = "npc/pirates/pirate_11.1", description = "npc/pirates/pirate_11.1" }
+sprite{ id = "npc/pirates/pirate_11.2", description = "npc/pirates/pirate_11.2" }
+sprite{ id = "npc/pirates/pirate_11.3", description = "npc/pirates/pirate_11.3" }
+sprite{ id = "npc/pirates/pirate_11.4", description = "npc/pirates/pirate_11.4" }
+sprite{ id = "npc/pirates/pirate_12.1", description = "npc/pirates/pirate_12.1" }
+sprite{ id = "npc/pirates/pirate_12.2", description = "npc/pirates/pirate_12.2" }
+sprite{ id = "npc/pirates/pirate_12.3", description = "npc/pirates/pirate_12.3" }
+sprite{ id = "npc/pirates/pirate_12.4", description = "npc/pirates/pirate_12.4" }
+sprite{ id = "npc/pirates/pirate_13.1", description = "npc/pirates/pirate_13.1" }
+sprite{ id = "npc/pirates/pirate_13.2", description = "npc/pirates/pirate_13.2" }
+sprite{ id = "npc/pirates/pirate_13.3", description = "npc/pirates/pirate_13.3" }
+sprite{ id = "npc/pirates/pirate_13.4", description = "npc/pirates/pirate_13.4" }
+sprite{ id = "npc/pirates/pirate_2.1", description = "npc/pirates/pirate_2.1" }
+sprite{ id = "npc/pirates/pirate_2.2", description = "npc/pirates/pirate_2.2" }
+sprite{ id = "npc/pirates/pirate_2.3", description = "npc/pirates/pirate_2.3" }
+sprite{ id = "npc/pirates/pirate_2.4", description = "npc/pirates/pirate_2.4" }
+sprite{ id = "npc/pirates/pirate_3.1", description = "npc/pirates/pirate_3.1" }
+sprite{ id = "npc/pirates/pirate_3.2", description = "npc/pirates/pirate_3.2" }
+sprite{ id = "npc/pirates/pirate_3.3", description = "npc/pirates/pirate_3.3" }
+sprite{ id = "npc/pirates/pirate_3.4", description = "npc/pirates/pirate_3.4" }
+sprite{ id = "npc/pirates/pirate_4.1", description = "npc/pirates/pirate_4.1" }
+sprite{ id = "npc/pirates/pirate_4.2", description = "npc/pirates/pirate_4.2" }
+sprite{ id = "npc/pirates/pirate_4.3", description = "npc/pirates/pirate_4.3" }
+sprite{ id = "npc/pirates/pirate_4.4", description = "npc/pirates/pirate_4.4" }
+sprite{ id = "npc/pirates/pirate_5.1", description = "npc/pirates/pirate_5.1" }
+sprite{ id = "npc/pirates/pirate_5.2", description = "npc/pirates/pirate_5.2" }
+sprite{ id = "npc/pirates/pirate_5.3", description = "npc/pirates/pirate_5.3" }
+sprite{ id = "npc/pirates/pirate_5.4", description = "npc/pirates/pirate_5.4" }
+sprite{ id = "npc/pirates/pirate_6.1", description = "npc/pirates/pirate_6.1" }
+sprite{ id = "npc/pirates/pirate_6.2", description = "npc/pirates/pirate_6.2" }
+sprite{ id = "npc/pirates/pirate_6.3", description = "npc/pirates/pirate_6.3" }
+sprite{ id = "npc/pirates/pirate_6.4", description = "npc/pirates/pirate_6.4" }
+sprite{ id = "npc/pirates/pirate_7.1", description = "npc/pirates/pirate_7.1" }
+sprite{ id = "npc/pirates/pirate_7.2", description = "npc/pirates/pirate_7.2" }
+sprite{ id = "npc/pirates/pirate_7.3", description = "npc/pirates/pirate_7.3" }
+sprite{ id = "npc/pirates/pirate_7.4", description = "npc/pirates/pirate_7.4" }
+sprite{ id = "npc/pirates/pirate_8.1", description = "npc/pirates/pirate_8.1" }
+sprite{ id = "npc/pirates/pirate_8.2", description = "npc/pirates/pirate_8.2" }
+sprite{ id = "npc/pirates/pirate_8.3", description = "npc/pirates/pirate_8.3" }
+sprite{ id = "npc/pirates/pirate_8.4", description = "npc/pirates/pirate_8.4" }
+sprite{ id = "npc/pirates/pirate_9.1", description = "npc/pirates/pirate_9.1" }
+sprite{ id = "npc/pirates/pirate_9.2", description = "npc/pirates/pirate_9.2" }
+sprite{ id = "npc/pirates/pirate_9.3", description = "npc/pirates/pirate_9.3" }
+sprite{ id = "npc/pirates/pirate_9.4", description = "npc/pirates/pirate_9.4" }
+sprite{ id = "npc/poster", description = "npc/poster" }
+sprite{ id = "npc/seed", description = "npc/seed" }
+sprite{ id = "npc/sitting_1", description = "npc/sitting_1" }
+sprite{ id = "npc/sitting_2", description = "npc/sitting_2" }
+sprite{ id = "npc/sitting_3", description = "npc/sitting_3" }
+sprite{ id = "npc/sitting_4", description = "npc/sitting_4" }
+sprite{ id = "npc/sitting_5", description = "npc/sitting_5" }
+sprite{ id = "npc/sitting_6", description = "npc/sitting_6" }
+sprite{ id = "npc/sitting_7", description = "npc/sitting_7" }
+sprite{ id = "npc/sitting_8", description = "npc/sitting_8" }
+sprite{ id = "npc/trumpet_player_1", description = "npc/trumpet_player_1" }
+sprite{ id = "npc/trumpet_player_disguise", description = "npc/trumpet_player_disguise" }
+sprite{ id = "npc/woman/sweeping_lady_1", description = "npc/woman/sweeping_lady_1" }
+sprite{ id = "npc/woman/sweeping_lady_2", description = "npc/woman/sweeping_lady_2" }
+sprite{ id = "npc/woman/sweeping_lady_3", description = "npc/woman/sweeping_lady_3" }
+sprite{ id = "npc/woman/sweeping_lady_4", description = "npc/woman/sweeping_lady_4" }
+sprite{ id = "npc/woman/sweeping_lady_5", description = "npc/woman/sweeping_lady_5" }
+sprite{ id = "npc/woman/sweeping_lady_6", description = "npc/woman/sweeping_lady_6" }
+sprite{ id = "npc/woman/sweeping_lady_7", description = "npc/woman/sweeping_lady_7" }
+sprite{ id = "npc/woman/sweeping_lady_8", description = "npc/woman/sweeping_lady_8" }
+sprite{ id = "npc/woman/woman_1.1", description = "npc/woman/woman_1.1" }
+sprite{ id = "npc/woman/woman_1.2", description = "npc/woman/woman_1.2" }
+sprite{ id = "npc/woman/woman_1.3", description = "npc/woman/woman_1.3" }
+sprite{ id = "npc/woman/woman_1.4", description = "npc/woman/woman_1.4" }
+sprite{ id = "npc/woman/woman_1.5", description = "npc/woman/woman_1.5" }
+sprite{ id = "npc/woman/woman_1.6", description = "npc/woman/woman_1.6" }
+sprite{ id = "npc/woman/woman_1.7", description = "npc/woman/woman_1.7" }
+sprite{ id = "npc/woman/woman_1.8", description = "npc/woman/woman_1.8" }
+sprite{ id = "npc/woman/woman_10.1", description = "npc/woman/woman_10.1" }
+sprite{ id = "npc/woman/woman_10.2", description = "npc/woman/woman_10.2" }
+sprite{ id = "npc/woman/woman_10.3", description = "npc/woman/woman_10.3" }
+sprite{ id = "npc/woman/woman_10.4", description = "npc/woman/woman_10.4" }
+sprite{ id = "npc/woman/woman_10.5", description = "npc/woman/woman_10.5" }
+sprite{ id = "npc/woman/woman_10.6", description = "npc/woman/woman_10.6" }
+sprite{ id = "npc/woman/woman_10.7", description = "npc/woman/woman_10.7" }
+sprite{ id = "npc/woman/woman_10.8", description = "npc/woman/woman_10.8" }
+sprite{ id = "npc/woman/woman_11.1", description = "npc/woman/woman_11.1" }
+sprite{ id = "npc/woman/woman_11.2", description = "npc/woman/woman_11.2" }
+sprite{ id = "npc/woman/woman_11.3", description = "npc/woman/woman_11.3" }
+sprite{ id = "npc/woman/woman_11.4", description = "npc/woman/woman_11.4" }
+sprite{ id = "npc/woman/woman_11.5", description = "npc/woman/woman_11.5" }
+sprite{ id = "npc/woman/woman_11.6", description = "npc/woman/woman_11.6" }
+sprite{ id = "npc/woman/woman_11.7", description = "npc/woman/woman_11.7" }
+sprite{ id = "npc/woman/woman_11.8", description = "npc/woman/woman_11.8" }
+sprite{ id = "npc/woman/woman_12.1", description = "npc/woman/woman_12.1" }
+sprite{ id = "npc/woman/woman_12.2", description = "npc/woman/woman_12.2" }
+sprite{ id = "npc/woman/woman_12.3", description = "npc/woman/woman_12.3" }
+sprite{ id = "npc/woman/woman_12.4", description = "npc/woman/woman_12.4" }
+sprite{ id = "npc/woman/woman_12.5", description = "npc/woman/woman_12.5" }
+sprite{ id = "npc/woman/woman_12.6", description = "npc/woman/woman_12.6" }
+sprite{ id = "npc/woman/woman_12.7", description = "npc/woman/woman_12.7" }
+sprite{ id = "npc/woman/woman_12.8", description = "npc/woman/woman_12.8" }
+sprite{ id = "npc/woman/woman_13.1", description = "npc/woman/woman_13.1" }
+sprite{ id = "npc/woman/woman_13.2", description = "npc/woman/woman_13.2" }
+sprite{ id = "npc/woman/woman_13.3", description = "npc/woman/woman_13.3" }
+sprite{ id = "npc/woman/woman_13.4", description = "npc/woman/woman_13.4" }
+sprite{ id = "npc/woman/woman_13.5", description = "npc/woman/woman_13.5" }
+sprite{ id = "npc/woman/woman_13.6", description = "npc/woman/woman_13.6" }
+sprite{ id = "npc/woman/woman_13.7", description = "npc/woman/woman_13.7" }
+sprite{ id = "npc/woman/woman_13.8", description = "npc/woman/woman_13.8" }
+sprite{ id = "npc/woman/woman_14.1", description = "npc/woman/woman_14.1" }
+sprite{ id = "npc/woman/woman_14.2", description = "npc/woman/woman_14.2" }
+sprite{ id = "npc/woman/woman_14.3", description = "npc/woman/woman_14.3" }
+sprite{ id = "npc/woman/woman_14.4", description = "npc/woman/woman_14.4" }
+sprite{ id = "npc/woman/woman_14.5", description = "npc/woman/woman_14.5" }
+sprite{ id = "npc/woman/woman_14.6", description = "npc/woman/woman_14.6" }
+sprite{ id = "npc/woman/woman_14.7", description = "npc/woman/woman_14.7" }
+sprite{ id = "npc/woman/woman_14.8", description = "npc/woman/woman_14.8" }
+sprite{ id = "npc/woman/woman_15.1", description = "npc/woman/woman_15.1" }
+sprite{ id = "npc/woman/woman_15.2", description = "npc/woman/woman_15.2" }
+sprite{ id = "npc/woman/woman_15.3", description = "npc/woman/woman_15.3" }
+sprite{ id = "npc/woman/woman_15.4", description = "npc/woman/woman_15.4" }
+sprite{ id = "npc/woman/woman_15.5", description = "npc/woman/woman_15.5" }
+sprite{ id = "npc/woman/woman_15.6", description = "npc/woman/woman_15.6" }
+sprite{ id = "npc/woman/woman_15.7", description = "npc/woman/woman_15.7" }
+sprite{ id = "npc/woman/woman_15.8", description = "npc/woman/woman_15.8" }
+sprite{ id = "npc/woman/woman_16.1", description = "npc/woman/woman_16.1" }
+sprite{ id = "npc/woman/woman_16.2", description = "npc/woman/woman_16.2" }
+sprite{ id = "npc/woman/woman_16.3", description = "npc/woman/woman_16.3" }
+sprite{ id = "npc/woman/woman_16.4", description = "npc/woman/woman_16.4" }
+sprite{ id = "npc/woman/woman_16.5", description = "npc/woman/woman_16.5" }
+sprite{ id = "npc/woman/woman_16.6", description = "npc/woman/woman_16.6" }
+sprite{ id = "npc/woman/woman_16.7", description = "npc/woman/woman_16.7" }
+sprite{ id = "npc/woman/woman_16.8", description = "npc/woman/woman_16.8" }
+sprite{ id = "npc/woman/woman_17.1", description = "npc/woman/woman_17.1" }
+sprite{ id = "npc/woman/woman_17.2", description = "npc/woman/woman_17.2" }
+sprite{ id = "npc/woman/woman_17.3", description = "npc/woman/woman_17.3" }
+sprite{ id = "npc/woman/woman_17.4", description = "npc/woman/woman_17.4" }
+sprite{ id = "npc/woman/woman_17.5", description = "npc/woman/woman_17.5" }
+sprite{ id = "npc/woman/woman_17.6", description = "npc/woman/woman_17.6" }
+sprite{ id = "npc/woman/woman_17.7", description = "npc/woman/woman_17.7" }
+sprite{ id = "npc/woman/woman_17.8", description = "npc/woman/woman_17.8" }
+sprite{ id = "npc/woman/woman_18.1", description = "npc/woman/woman_18.1" }
+sprite{ id = "npc/woman/woman_18.2", description = "npc/woman/woman_18.2" }
+sprite{ id = "npc/woman/woman_18.3", description = "npc/woman/woman_18.3" }
+sprite{ id = "npc/woman/woman_18.4", description = "npc/woman/woman_18.4" }
+sprite{ id = "npc/woman/woman_18.5", description = "npc/woman/woman_18.5" }
+sprite{ id = "npc/woman/woman_18.6", description = "npc/woman/woman_18.6" }
+sprite{ id = "npc/woman/woman_18.7", description = "npc/woman/woman_18.7" }
+sprite{ id = "npc/woman/woman_18.8", description = "npc/woman/woman_18.8" }
+sprite{ id = "npc/woman/woman_19.1", description = "npc/woman/woman_19.1" }
+sprite{ id = "npc/woman/woman_19.2", description = "npc/woman/woman_19.2" }
+sprite{ id = "npc/woman/woman_19.3", description = "npc/woman/woman_19.3" }
+sprite{ id = "npc/woman/woman_19.4", description = "npc/woman/woman_19.4" }
+sprite{ id = "npc/woman/woman_19.5", description = "npc/woman/woman_19.5" }
+sprite{ id = "npc/woman/woman_19.6", description = "npc/woman/woman_19.6" }
+sprite{ id = "npc/woman/woman_19.7", description = "npc/woman/woman_19.7" }
+sprite{ id = "npc/woman/woman_19.8", description = "npc/woman/woman_19.8" }
+sprite{ id = "npc/woman/woman_2.1", description = "npc/woman/woman_2.1" }
+sprite{ id = "npc/woman/woman_2.2", description = "npc/woman/woman_2.2" }
+sprite{ id = "npc/woman/woman_2.3", description = "npc/woman/woman_2.3" }
+sprite{ id = "npc/woman/woman_2.4", description = "npc/woman/woman_2.4" }
+sprite{ id = "npc/woman/woman_2.5", description = "npc/woman/woman_2.5" }
+sprite{ id = "npc/woman/woman_2.6", description = "npc/woman/woman_2.6" }
+sprite{ id = "npc/woman/woman_2.7", description = "npc/woman/woman_2.7" }
+sprite{ id = "npc/woman/woman_2.8", description = "npc/woman/woman_2.8" }
+sprite{ id = "npc/woman/woman_3.1", description = "npc/woman/woman_3.1" }
+sprite{ id = "npc/woman/woman_3.2", description = "npc/woman/woman_3.2" }
+sprite{ id = "npc/woman/woman_3.3", description = "npc/woman/woman_3.3" }
+sprite{ id = "npc/woman/woman_3.4", description = "npc/woman/woman_3.4" }
+sprite{ id = "npc/woman/woman_3.5", description = "npc/woman/woman_3.5" }
+sprite{ id = "npc/woman/woman_3.6", description = "npc/woman/woman_3.6" }
+sprite{ id = "npc/woman/woman_3.7", description = "npc/woman/woman_3.7" }
+sprite{ id = "npc/woman/woman_3.8", description = "npc/woman/woman_3.8" }
+sprite{ id = "npc/woman/woman_4.1", description = "npc/woman/woman_4.1" }
+sprite{ id = "npc/woman/woman_4.2", description = "npc/woman/woman_4.2" }
+sprite{ id = "npc/woman/woman_4.3", description = "npc/woman/woman_4.3" }
+sprite{ id = "npc/woman/woman_4.4", description = "npc/woman/woman_4.4" }
+sprite{ id = "npc/woman/woman_4.5", description = "npc/woman/woman_4.5" }
+sprite{ id = "npc/woman/woman_4.6", description = "npc/woman/woman_4.6" }
+sprite{ id = "npc/woman/woman_4.7", description = "npc/woman/woman_4.7" }
+sprite{ id = "npc/woman/woman_4.8", description = "npc/woman/woman_4.8" }
+sprite{ id = "npc/woman/woman_5.1", description = "npc/woman/woman_5.1" }
+sprite{ id = "npc/woman/woman_5.2", description = "npc/woman/woman_5.2" }
+sprite{ id = "npc/woman/woman_5.3", description = "npc/woman/woman_5.3" }
+sprite{ id = "npc/woman/woman_5.4", description = "npc/woman/woman_5.4" }
+sprite{ id = "npc/woman/woman_5.5", description = "npc/woman/woman_5.5" }
+sprite{ id = "npc/woman/woman_5.6", description = "npc/woman/woman_5.6" }
+sprite{ id = "npc/woman/woman_5.7", description = "npc/woman/woman_5.7" }
+sprite{ id = "npc/woman/woman_5.8", description = "npc/woman/woman_5.8" }
+sprite{ id = "npc/woman/woman_6.1", description = "npc/woman/woman_6.1" }
+sprite{ id = "npc/woman/woman_6.2", description = "npc/woman/woman_6.2" }
+sprite{ id = "npc/woman/woman_6.3", description = "npc/woman/woman_6.3" }
+sprite{ id = "npc/woman/woman_6.4", description = "npc/woman/woman_6.4" }
+sprite{ id = "npc/woman/woman_6.5", description = "npc/woman/woman_6.5" }
+sprite{ id = "npc/woman/woman_6.6", description = "npc/woman/woman_6.6" }
+sprite{ id = "npc/woman/woman_6.7", description = "npc/woman/woman_6.7" }
+sprite{ id = "npc/woman/woman_6.8", description = "npc/woman/woman_6.8" }
+sprite{ id = "npc/woman/woman_7.1", description = "npc/woman/woman_7.1" }
+sprite{ id = "npc/woman/woman_7.2", description = "npc/woman/woman_7.2" }
+sprite{ id = "npc/woman/woman_7.3", description = "npc/woman/woman_7.3" }
+sprite{ id = "npc/woman/woman_7.4", description = "npc/woman/woman_7.4" }
+sprite{ id = "npc/woman/woman_7.5", description = "npc/woman/woman_7.5" }
+sprite{ id = "npc/woman/woman_7.6", description = "npc/woman/woman_7.6" }
+sprite{ id = "npc/woman/woman_7.7", description = "npc/woman/woman_7.7" }
+sprite{ id = "npc/woman/woman_7.8", description = "npc/woman/woman_7.8" }
+sprite{ id = "npc/woman/woman_8.1", description = "npc/woman/woman_8.1" }
+sprite{ id = "npc/woman/woman_8.2", description = "npc/woman/woman_8.2" }
+sprite{ id = "npc/woman/woman_8.3", description = "npc/woman/woman_8.3" }
+sprite{ id = "npc/woman/woman_8.4", description = "npc/woman/woman_8.4" }
+sprite{ id = "npc/woman/woman_8.5", description = "npc/woman/woman_8.5" }
+sprite{ id = "npc/woman/woman_8.6", description = "npc/woman/woman_8.6" }
+sprite{ id = "npc/woman/woman_8.7", description = "npc/woman/woman_8.7" }
+sprite{ id = "npc/woman/woman_8.8", description = "npc/woman/woman_8.8" }
+sprite{ id = "npc/woman/woman_9.1", description = "npc/woman/woman_9.1" }
+sprite{ id = "npc/woman/woman_9.2", description = "npc/woman/woman_9.2" }
+sprite{ id = "npc/woman/woman_9.3", description = "npc/woman/woman_9.3" }
+sprite{ id = "npc/woman/woman_9.4", description = "npc/woman/woman_9.4" }
+sprite{ id = "npc/woman/woman_9.5", description = "npc/woman/woman_9.5" }
+sprite{ id = "npc/woman/woman_9.6", description = "npc/woman/woman_9.6" }
+sprite{ id = "npc/woman/woman_9.7", description = "npc/woman/woman_9.7" }
+sprite{ id = "npc/woman/woman_9.8", description = "npc/woman/woman_9.8" }
+
+
+
+
+
+
+
+font{ id = "oceansfont", description = "Ocean's Font" }
+
+
+file{ path = "fonts/oceansfont.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "main.lua", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/bosses/bart.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/bosses/bart.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/bosses/bart_weapon.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/bosses/blackbeard.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/bosses/blackbeard.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/bosses/burrow_crab.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/bosses/burrow_crab.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/bosses/charging_pirate_1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/bosses/charging_pirate_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/bosses/fiend_1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/bosses/fiend_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/bosses/jazari.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/bosses/jazari.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/bosses/michael.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/bosses/michael.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/bosses/michael_weapon.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/bosses/rock_spider_big.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/bosses/rock_spider_big.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/bosses/thyme.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/bosses/thyme.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/enemy_killed.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/enemy_killed.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/ground1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/arrow_4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/big_stone.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/big_stone.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/crusher.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/crusher_0.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/crusher_1.0.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/crusher_2.0.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/crusher_3.0.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/crusher_4.0.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/explosive_barrel.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/explosive_barrel.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/fireball_red_small.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/fireball_red_small.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/nitrodendron_bomb.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/octorok_stone.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/octorok_stone.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/octorok_stone_2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/octorok_stone_2.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/root_small.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/root_small.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/seagull.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/seagull.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/steam_attack.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/steam_attack.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/thyme_bomb.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/weak_tree.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/weak_tree.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/misc/zora_fire.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/arborgeist_acorn.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/arborgeist_acorn.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/arborgeist_bomber.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/arborgeist_bomber.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/arborgeist_rogue.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/arborgeist_rogue.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/arborgeist_stump.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/arborgeist_stump.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/aster_enemy.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/aster_enemy.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/aster_enemy_weapon.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/automatic_crow_knight.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/automatic_crow_knight.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/bat_1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/bat_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/birdfox_1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/birdfox_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/blade_trap.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/blade_trap.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/burrow_like.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/burrow_like.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/crow.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/crow.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/crow_xxl.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/crow_xxl.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/crowbot.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/crowbot.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/cyclops_1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/cyclops_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/fiend_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/gel_black.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/gel_black.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/ghost_1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/ghost_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/ghost_2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/ghost_2.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/grim_1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/grim_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/guard_goatshead_1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/guard_goatshead_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/guard_goatshead_1_weapon.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/hornet.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/hornet.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/mandrake.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/mandrake.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/mandrake_white.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/mandrake_white.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/meandershroom_1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/meandershroom_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/mud_golem_1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/mud_golem_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/ogre_1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/ogre_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/ogre_armor.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/ogre_armor.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/ogre_basic.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/ogre_knight.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/ogre_knight.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/pirate_bow_brown_1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/pirate_bow_brown_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/pirate_extra_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/pirate_extra_2.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/pirate_sword_brown_1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/pirate_sword_brown_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/pirate_sword_brown_1_weapon.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/pirate_sword_brown_2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/pirate_sword_brown_2.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/pirate_sword_brown_2_weapon.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/pirate_sword_brown_3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/pirate_sword_brown_3.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/pirate_sword_brown_3_weapon.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/pirate_sword_brown_4.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/rambleshroom.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/rambleshroom.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/rock_spider_brown.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/rock_spider_brown.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/rock_spider_red.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/rock_spider_red.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/seaweed_blob.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/seaweed_blob.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/seaweed_golem_1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/seaweed_golem_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/shooty_fish.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/shooty_fish.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/skeleton_1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/skeleton_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/spitrock_small.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/spitrock_small.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/spitstump_small.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/spitstump_small.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/stone_golem_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/stump_duck.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/stump_duck.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/sword_soldier_blue.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/triangle_crab_red.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/triangle_crab_red.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/trumpet_player_disguise.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/enemies/normal_enemies/trumpet_player_disguise.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/big_guy_1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/big_guy_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/blacksmith_01.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/blacksmith_01.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/blacksmith_02.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/blacksmith_02.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/blacksmith_03.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/blacksmith_04.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/bouncer.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/bouncer_1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/bouncer_2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/dockworker_1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/dockworker_2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/dockworker_3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/dockworker_4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/dockworker_5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/dockworker_6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/dockworker_7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/dockworker_8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/dockworkers_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/dockworkers_2.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/eamon.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/eamon.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/fishing_2_left.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/fishing_2_right.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/fishing_left.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/fishing_right.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/guards_goatshead.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/guards_oakhaven.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/hazel.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/hazel.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/ilex.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/ilex.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/juglan.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/juglan.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/juglan_fishing.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/juglan_fishing.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kelpton.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kelpton.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid", author = "Max Mraz", }
+file{ path = "sprites/npc/kid/kid_1.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_1.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_1.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_1.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_2.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_2.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_2.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_2.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_3.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_3.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_3.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_3.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_4.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_4.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_4.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_4.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_5.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_5.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_5.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_5.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_6.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_6.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_6.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid/kid_6.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid_1-2.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid_3-4.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/kid_5-6.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/leigha.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/leigha.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/linden.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/linden.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/linden_sweeping.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/linden_sweeping.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/mallow.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/mallow.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man", author = "Max Mraz", }
+file{ path = "sprites/npc/man/man_1.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_1.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_1.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_1.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_1.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_1.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_1.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_1.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_10.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_10.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_10.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_10.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_10.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_10.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_10.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_10.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_11.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_11.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_11.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_11.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_11.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_11.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_11.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_11.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_12.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_12.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_12.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_12.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_12.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_12.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_12.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_12.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_13.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_13.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_13.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_13.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_13.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_13.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_13.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_13.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_14.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_14.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_14.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_14.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_14.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_14.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_14.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_14.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_15.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_15.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_15.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_15.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_15.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_15.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_15.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_15.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_16.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_16.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_16.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_16.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_16.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_16.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_16.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_16.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_17.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_17.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_17.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_17.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_17.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_17.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_17.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_17.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_18.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_18.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_18.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_18.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_18.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_18.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_18.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_18.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_19.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_19.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_19.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_19.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_19.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_19.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_19.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_19.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_2.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_2.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_2.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_2.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_2.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_2.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_2.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_2.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_20.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_20.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_20.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_20.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_20.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_20.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_20.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_20.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_21.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_21.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_21.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_21.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_21.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_21.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_21.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_21.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_22.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_22.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_22.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_22.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_22.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_22.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_22.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_22.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_23.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_23.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_23.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_23.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_23.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_23.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_23.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_23.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_24.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_24.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_24.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_24.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_24.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_24.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_24.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_24.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_25.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_25.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_25.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_25.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_25.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_25.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_25.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_25.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_26.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_26.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_26.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_26.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_26.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_26.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_26.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_26.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_27.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_27.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_27.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_27.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_27.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_27.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_27.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_27.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_28.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_28.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_28.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_28.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_28.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_28.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_28.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_28.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_3.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_3.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_3.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_3.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_3.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_3.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_3.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_3.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_4.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_4.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_4.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_4.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_4.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_4.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_4.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_4.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_5.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_5.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_5.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_5.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_5.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_5.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_5.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_5.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_6.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_6.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_6.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_6.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_6.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_6.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_6.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_6.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_7.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_7.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_7.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_7.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_7.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_7.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_7.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_7.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_8.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_8.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_8.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_8.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_8.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_8.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_8.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_8.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_9.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_9.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_9.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_9.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_9.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_9.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_9.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man/man_9.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_10.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_11.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_12.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_13.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_14.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_15.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_16.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_17.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_18.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_19.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_2.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_20.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_21.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_22.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_23.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_24.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_25.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_26.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_27.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_28.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_3.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_4.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_5.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_6.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_7.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_8.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/man_9.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/morus.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/morus.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/musician_2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/musician_2.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/musician_3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/musician_3.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/nina.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/nina.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/old_man_1.1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/old_man_1.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/old_man_1.2.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/old_man_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/orange_ana.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/orange_ana.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/phantom_squid.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/phantom_squid_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/phantom_squid_2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/phantom_squid_2.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirate_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirate_10.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirate_11.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirate_12.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirate_13.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirate_2.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirate_3.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirate_4.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirate_5.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirate_6.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirate_7.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirate_8.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirate_9.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates", author = "Max Mraz", }
+file{ path = "sprites/npc/pirates/pirate_10.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_10.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_10.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_10.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_11.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_11.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_11.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_11.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_12.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_12.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_12.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_12.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_13.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_13.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_13.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_13.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_2.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_2.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_2.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_2.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_3.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_3.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_3.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_3.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_4.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_4.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_4.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_4.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_5.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_5.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_5.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_5.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_6.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_6.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_6.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_6.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_7.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_7.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_7.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_7.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_8.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_8.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_8.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_8.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_9.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_9.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_9.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/pirates/pirate_9.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/poster.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/poster.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/seed.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/seed.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/sitting_1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/sitting_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/sitting_2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/sitting_2.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/sitting_3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/sitting_4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/sitting_5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/sitting_6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/sitting_7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/sitting_8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/trumpet_player_1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/trumpet_player_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/trumpet_player_disguise.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/trumpet_player_disguise.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman", author = "Max Mraz", }
+file{ path = "sprites/npc/woman/sweeping_lady_1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/sweeping_lady_2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/sweeping_lady_3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/sweeping_lady_4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/sweeping_lady_5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/sweeping_lady_6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/sweeping_lady_7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/sweeping_lady_8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_1.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_1.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_1.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_1.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_1.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_1.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_1.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_1.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_10.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_10.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_10.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_10.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_10.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_10.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_10.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_10.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_11.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_11.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_11.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_11.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_11.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_11.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_11.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_11.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_12.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_12.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_12.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_12.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_12.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_12.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_12.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_12.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_13.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_13.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_13.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_13.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_13.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_13.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_13.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_13.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_14.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_14.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_14.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_14.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_14.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_14.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_14.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_14.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_15.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_15.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_15.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_15.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_15.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_15.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_15.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_15.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_16.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_16.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_16.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_16.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_16.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_16.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_16.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_16.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_17.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_17.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_17.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_17.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_17.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_17.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_17.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_17.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_18.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_18.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_18.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_18.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_18.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_18.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_18.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_18.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_19.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_19.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_19.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_19.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_19.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_19.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_19.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_19.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_2.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_2.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_2.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_2.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_2.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_2.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_2.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_2.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_3.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_3.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_3.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_3.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_3.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_3.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_3.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_3.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_4.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_4.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_4.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_4.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_4.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_4.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_4.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_4.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_5.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_5.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_5.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_5.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_5.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_5.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_5.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_5.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_6.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_6.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_6.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_6.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_6.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_6.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_6.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_6.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_7.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_7.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_7.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_7.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_7.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_7.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_7.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_7.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_8.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_8.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_8.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_8.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_8.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_8.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_8.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_8.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_9.1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_9.2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_9.3.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_9.4.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_9.5.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_9.6.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_9.7.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman/woman_9.8.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman_1.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman_10.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman_11.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman_12.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman_13.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman_14.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman_15.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman_16.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman_17.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman_18.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman_19.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman_2.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman_3.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman_4.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman_5.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman_6.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman_7.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman_8.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "sprites/npc/woman_9.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "tilesets/cave_2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "tilesets/cave_2.tiles.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "tilesets/entities.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "tilesets/indoors_cabin.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "tilesets/indoors_cabin.tiles.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "tilesets/indoors_stone.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "tilesets/indoors_stone.tiles.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "tilesets/oceanheart_outdoors_1.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "tilesets/oceanheart_outdoors_1.tiles.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "tilesets/overworld_oakhaven.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "tilesets/overworld_oakhaven.tiles.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "tilesets/overworld_yarrowmouth.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "tilesets/overworld_yarrowmouth.tiles.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "tilesets/pirate_overworld_test.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "tilesets/pirate_overworld_test.tiles.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "tilesets/temple_2.dat", author = "Max Mraz", license = "CC BY-SA 4.0" }
+file{ path = "tilesets/temple_2.tiles.png", author = "Max Mraz", license = "CC BY-SA 4.0" }
